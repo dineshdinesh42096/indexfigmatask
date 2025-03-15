@@ -33,7 +33,7 @@ body {
 }
 
 .navbar-nav .nav-link:hover {
-    color: #ff4500 !important;
+    color: rgb(255, 153, 0);
 }
 
 .navbar-toggler {
